@@ -61,6 +61,7 @@ apex {
         "microdroid_bootloader",
     ],
     file_contexts: ":com.android.virt-file_contexts",
+    enabled: false,
 }
 
 apex_key {

@@ -21,6 +21,7 @@ rust_defaults {
             enabled: false,
         },
     },
+    enabled: false,
 }
 
 rust_binary {
